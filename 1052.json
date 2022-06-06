@@ -1,0 +1,80 @@
+{
+  "name": "Sad Kittens #1053",
+  "description": "Sad Kittens is a collection of 3333 unique NFTs",
+  "external_url": "https://sadkittens.space/",
+  "image": "1052.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "cloudy day"
+    },
+    {
+      "trait_type": "body",
+      "value": "white noise"
+    },
+    {
+      "trait_type": "paws",
+      "value": "bright luster"
+    },
+    {
+      "trait_type": "tail",
+      "value": "walk in the wood #1"
+    },
+    {
+      "trait_type": "face",
+      "value": "dark curtain"
+    },
+    {
+      "trait_type": "nose",
+      "value": "rubric nose"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "crazy look"
+    },
+    {
+      "trait_type": "additional spots",
+      "value": "heart"
+    },
+    {
+      "trait_type": "on the body",
+      "value": "invisibility cloak"
+    },
+    {
+      "trait_type": "in the hands",
+      "value": "ancient mage"
+    },
+    {
+      "trait_type": "hats",
+      "value": "crazy outfit"
+    },
+    {
+      "trait_type": "objects",
+      "value": "mushroom"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1052.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "6wwXMETjshTwA3YTrbRUaqQ9JV1TbmGxiMhLCqxpaDDS",
+        "share": 80
+      },
+      {
+        "address": "oAaYkwC7HCjhENErqNxRm6bKuxCB6R2z2BjUDZntzsB",
+        "share": 20
+      }
+    ]
+  },
+  "seller_fee_basis_points": 850,
+  "symbol": "$DK",
+  "collection": {
+    "name": "Sad Kittens",
+    "family": "Sad Kittens"
+  }
+}

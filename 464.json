@@ -1,0 +1,68 @@
+{
+  "name": "Sad Kittens #465",
+  "description": "Sad Kittens is a collection of 3333 unique NFTs",
+  "external_url": "https://sadkittens.space/",
+  "image": "464.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "after-supper strol"
+    },
+    {
+      "trait_type": "body",
+      "value": "golden silhouette"
+    },
+    {
+      "trait_type": "paws",
+      "value": "golden gesture"
+    },
+    {
+      "trait_type": "tail",
+      "value": "walk in the wood #3"
+    },
+    {
+      "trait_type": "face",
+      "value": "sunny ball"
+    },
+    {
+      "trait_type": "nose",
+      "value": "curved nose"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "quiet hour"
+    },
+    {
+      "trait_type": "on the body",
+      "value": "big boss"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Gordon Ramsay"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "464.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "6wwXMETjshTwA3YTrbRUaqQ9JV1TbmGxiMhLCqxpaDDS",
+        "share": 80
+      },
+      {
+        "address": "oAaYkwC7HCjhENErqNxRm6bKuxCB6R2z2BjUDZntzsB",
+        "share": 20
+      }
+    ]
+  },
+  "seller_fee_basis_points": 850,
+  "symbol": "$DK",
+  "collection": {
+    "name": "Sad Kittens",
+    "family": "Sad Kittens"
+  }
+}
