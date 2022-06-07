@@ -2,7 +2,7 @@
   "name": "Sad Kittens #136",
   "description": "Sad Kittens is a collection of 3333 unique NFTs",
   "external_url": "https://sadkittens.space/",
-  "image": "135.png",
+  "image": "https://raw.githubusercontent.com/TrewisDK/SDK-assets/master/135.png",
   "attributes": [
     {
       "trait_type": "background",
