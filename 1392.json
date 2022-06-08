@@ -54,6 +54,10 @@
     ],
     "creators": [
       {
+        "address": "HxbTjkpYanXpTXhjWriHsxzX8xeCZKXAkP2JhahqfmHb",
+        "share": 0
+      },
+      {
         "address": "6wwXMETjshTwA3YTrbRUaqQ9JV1TbmGxiMhLCqxpaDDS",
         "share": 80
       },
